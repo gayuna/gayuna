@@ -32,7 +32,8 @@ You can check my full resume here:
 Inspired by how designers practice by redesign the product, I started a System Redesign Series, where I analyze and reimagine the backend architecture of real-world services.
 
 ### 🔗 Check out the articles:
-- [A Backend Redesign Exercise - Interpark Ticket](https://gayuna.github.io/system%20design/eng-system-design-interpark/) (like Ticketmaster)
+- [A Backend Redesign Exercise - Interpark Ticket](https://gayuna.github.io/system%20design%20english/eng-system-design-interpark/) (like Ticketmaster)
+- [A Backend Redesign Exercise - Runday](https://gayuna.github.io/system%20design%20english/eng-system-design-runday/) (A workout coaching App)
 
 
 ## 🛠 Small but Impactful Tools
