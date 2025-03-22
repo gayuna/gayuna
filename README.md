@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gayoun Han (Yuna)  
 
-I'm a **Senior Backend Engineer** with 10 years of experience in building scalable backend systems, API integrations, and cloud infrastructure.  
-I’m open to exciting opportunities worldwide and currently hold an Open Work Permit for Canada.
-Passionate about distributed systems, AI-powered applications, and cloud-native architectures.
+* I'm a **Senior Backend Engineer** with 10 years of experience in building scalable backend systems, API integrations, and cloud infrastructure.  
+* I’m open to exciting opportunities worldwide and currently hold an Open Work Permit for Canada.
+* Passionate about distributed systems, AI-powered applications, and cloud-native architectures.
 
 ## 📄 Resume
 You can check my full resume here:  
