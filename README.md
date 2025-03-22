@@ -9,7 +9,7 @@ You can check my full resume here:
 🔗 [View Resume](https://docs.google.com/document/d/1sdeyhAOx-hn4IkdCEzCOlXfhcIQ1mrfg7L86qlYMG5c/edit?usp=sharing)
 
 ## 🛠 Tech Stack
-* Languages: Java/Kotlin, Python, C/C++
+* Languages: Java/Kotlin, Python, C/C++, ARM Assembly
 * Backend: Spring Boot, Spring Batch
 * Databases: MySQL, MongoDB
 * Cloud & DevOps: AWS, Terraform  
