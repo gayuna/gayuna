@@ -34,7 +34,7 @@ Inspired by how designers practice by redesign the product, I started a System R
 ### 🔗 Check out the articles:
 - [A Backend Redesign Exercise - Interpark Ticket](https://gayuna.github.io/system%20design%20english/eng-system-design-interpark/) (like Ticketmaster)
 - [A Backend Redesign Exercise - Runday](https://gayuna.github.io/system%20design%20english/eng-system-design-runday/) (A workout coaching App)
-
+- [A Backend Redesign Exercise - MY BOX](https://gayuna.github.io/system%20design%20english/eng-system-design-mybox/) (A personal cloud storage service, like Dropbox)
 
 ## 🛠 Small but Impactful Tools
 I love solving real-world problems, no matter how small, by building simple yet effective tools.  
