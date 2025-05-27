@@ -23,10 +23,19 @@ You can check my full resume here:
 - 🐦 [X (Twitter)](http://twitter.com/hello_gayuna) - Mostly posting in Korean, but feel free to reach out in English!
 
 ## 💡 What I Bring to the Table
-- **AI-powered EdTech Solutions**: Built South Korea’s first AI-powered CSAT learning platform, improving student engagement by 98%.
-- **Global E-Commerce Integrations**: Led backend development for Coupang’s logistics integrations, reducing delivery times by 25.7% and saving $4.18M annually.
-- **Cloud Cost Optimization**: Optimized AWS infrastructure, cutting costs by 25–33% through JVM tuning and resource scaling.
-- **Scalable System Architecture**: Designed and deployed highly available microservices using **Java, Spring Boot, AWS, Kafka, and Terraform**.
+**AI & LLM-Powered Solutions:**
+* *Engineered South Korea's first AI-based homework feedback system from concept to deployment*, driving *98% user satisfaction* by automating manual grading and providing personalized student insights.
+• Passionate about applying cutting-edge LLM technologies to solve real-world problems.
+
+**Strategic Global E-Commerce Integration:**
+* Key contributor to Coupang's Taiwan market entry, leading backend integrations that resulted in an *8000% revenue surge* (from $128K to $8M in 1.5 years).
+* Expert in navigating diverse technical environments and complex partner relationships to enable large-scale business expansion.
+
+**Innovative Algorithm Development & Problem Solving:**
+* At Samsung, I transformed a perceived "impossible" hardware limitation into a *successful, advertised feature ('Side Sense' for Sony's Xperia 1)* through novel algorithm design and deep technical communication. This led to 3 follow-up projects.
+
+**Robust & Cost-Efficient Cloud Infrastructure:**
+* Achieved *25-33% cloud cost reduction* through meticulous JVM tuning and effective resource scaling, ensuring operational efficiency.
 
 ## 📐 A Backend System Redesign Series
 Inspired by how designers practice by redesign the product, I started a System Redesign Series, where I analyze and reimagine the backend architecture of real-world services.
