@@ -37,6 +37,22 @@ You can check my full resume here:
 **Robust & Cost-Efficient Cloud Infrastructure:**
 * Achieved *25-33% cloud cost reduction* through meticulous JVM tuning and effective resource scaling, ensuring operational efficiency.
 
+## 🌱 Building Communities from Scratch
+I believe that great communities are built when people with shared goals come together to solve common problems. I actively seek out these opportunities, taking the initiative to build platforms and groups that foster connection and growth.
+
+### Organizer | BAKG Study Club++
+As professionals advance in their careers, finding dedicated study partners becomes a significant challenge. To solve this, I joined as a board member to operate BAKG, a study club for Korean IT professionals.
+
+* What I do: I recruit and onboard new study members, facilitate kick-off meetings, organize offline networking events, and actively participate in studies myself.
+* Impact: We've created a valuable hub for motivated professionals to connect, learn together, and grow their networks. This experience has been fundamental in developing my leadership and community management skills.
+
+### Founder & Tech Lead | Holidap Project
+Working Holiday information is often scattered and outdated. I saw an opportunity to create a centralized platform to address this.
+
+* The Project: I am leading a team of five (2 Frontend, 2 Data, and myself as Backend/Lead) to build Holidap, a platform for sharing the latest Working Holiday information for Canada.
+* My Vision: The goal is to grow Holidap into a global community—first for anyone coming to Canada, and eventually for anyone from glob who coming to Canada on a Working Holiday visa.
+* What I'm Learning: Leading a multidisciplinary team from concept to launch is teaching me invaluable lessons in project management, team collaboration, and turning a vision into a tangible product.
+
 ## 📐 A Backend System Redesign Series
 Inspired by how designers practice by redesign the product, I started a System Redesign Series, where I analyze and reimagine the backend architecture of real-world services.
 
@@ -59,18 +75,3 @@ Here are some projects where I helped people overcome digital limitations:
 * Solution: Forked the [twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) repository and built a script that automatically extracts and saves full thread content.  
 * Enhancement: Later evolved this into a [backend-free browser tool](https://gayuna.github.io/tweet-processor/), leveraging client-side computing to process backups.  
 * Project Write-up: [Read more here](https://gayuna.github.io/llm/thread-backup/) (Note: Written in Korean)
-
-<!--
-**gayuna/gayuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
