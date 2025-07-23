@@ -29,10 +29,10 @@ The core of the solution was a scheduled, stateful service that managed the enti
 This entire integration was managed amidst complex communications involving two project managers, two engineers, and language interpreters in our meetings.
 
 ## Technology Stack
-Primary Languages: Java, Kotlin
-Frameworks: Spring Boot
-Protocols & Data Formats: FTP/SFTP, HTTP, CSV, JSON
-Tools & Platforms: Jenkins (for CI/CD and job scheduling), Git, JIRA, Docker, Kubernetes
+* Primary Languages: Java, Kotlin
+* Frameworks: Spring Boot
+* Protocols & Data Formats: FTP/SFTP, HTTP, CSV, JSON
+* Tools & Platforms: Jenkins (for CI/CD and job scheduling), Git, JIRA, Docker, Kubernetes
 
 ![image](https://github.com/user-attachments/assets/ee4c58df-cae3-4a2c-bf7f-3ced8158a5d7)
 

@@ -27,9 +27,9 @@ The final system was a two-stage AI pipeline designed for accuracy and depth of 
 As a solo developer and not a formal AI expert, I navigated the project's challenges by continuously researching best practices from tech blogs and applying them through rapid trial-and-error cycles.
 
 ## Technology Stack
-Languages: Python
-AI/ML: OpenAI API, Gemini API
-Databases & Tools: MongoDB, Github Actions
+* Languages: Python
+* AI/ML: OpenAI API, Gemini API
+* Databases & Tools: MongoDB, Github Actions
 
 ## The Results: Enhancing Education and Unlocking New Opportunities
 The AI evaluation system delivered significant value across the board:

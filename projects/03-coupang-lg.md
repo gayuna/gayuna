@@ -31,10 +31,10 @@ The solution was architected as a resilient, decoupled system that bridged the l
 * Transactional Integrity: When a customer completed a purchase, the system would perform a final, real-time check against the LG API to lock in the installation slot, ensuring no double-bookings and guaranteeing the promised date.
 
 ## Technology Stack
-Primary Languages: Java,Kotlin
-Frameworks: Spring Boot, Jenkins
-Databases & Caching: MySQL
-Tools & Protocols: RESTful APIs, Git, JIRA, Docker, Kubernetes
+* Primary Languages: Java,Kotlin
+* Frameworks: Spring Boot, Jenkins
+* Databases & Caching: MySQL
+* Tools & Protocols: RESTful APIs, Git, JIRA, Docker, Kubernetes
 
 ## The Results: A Transformative Business Impact
 The re-architecture was a definitive success, delivering transformative results that directly impacted the company's bottom line.
