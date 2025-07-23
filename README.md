@@ -59,7 +59,7 @@ Here are some projects where I helped people overcome digital limitations:
 * Enhancement: Later evolved this into a [backend-free browser tool](https://gayuna.github.io/tweet-processor/), leveraging client-side computing to process backups.  
 * Project Write-up: [Read more here](https://gayuna.github.io/llm/thread-backup/) (Note: Written in Korean)
 
-##  Resume
+## 📄 Resume
 You can check my full resume here:  
 🔗 [View Resume](https://docs.google.com/document/d/1sdeyhAOx-hn4IkdCEzCOlXfhcIQ1mrfg7L86qlYMG5c/edit?usp=sharing)
 
