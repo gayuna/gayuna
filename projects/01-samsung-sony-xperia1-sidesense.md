@@ -4,9 +4,11 @@
 Full Sony Xperia 1 trailer is available [here](https://www.youtube.com/watch?v=50CQxuVaQQI).
 
 ## The Business Context & The Challenge
-While at Samsung Electronics, our team developed and supplied Touch Controller ICs, key B2B components for global smartphone manufacturers. To diversify revenue beyond the Samsung Galaxy series, we pursued strategic partnerships with other global brands.
+While at __Samsung Electronics__, our team developed and supplied Touch Controller ICs, key B2B components for global smartphone manufacturers. To diversify revenue beyond the Samsung Galaxy series, we pursued strategic partnerships with other global brands.
 
-Sony Mobile approached our team to supply the touch IC for their new flagship, the Xperia 1. They chose us for our unique mass-production expertise with Y-OCTA display technology, which they planned to use. As part of the engagement, Sony requested a novel "Side Sense" feature to detect taps and slides on the curved side bezel of the display. However, the hardware team deemed this technically impossible, citing the extremely low signal-to-noise ratio on the bezel, which made distinguishing intentional touches from electrical noise unfeasible with standard methods.
+Sony Mobile approached our team to supply the touch IC for their new flagship, the Xperia 1. They chose us for our unique mass-production expertise with Y-OCTA display technology, which they planned to use.
+
+As part of the engagement, Sony requested a novel "Side Sense" feature to detect taps and slides on the curved side bezel of the display. However, the hardware team deemed this technically impossible, citing the extremely low signal-to-noise ratio on the bezel, which made distinguishing intentional touches from electrical noise unfeasible with standard methods.
 
 ## My Role: Bridging Engineering and Project Leadership
 I was assigned to the Sony account as the lead software algorithm engineer for this feature. Due to my professional fluency in Japanese, I also became the primary technical point of contact for Sony's engineering teams. This dual role naturally evolved to include project management responsibilities, where I handled technical presentations, specification negotiations, and all cross-company communication, bridging the gap between our firmware team, our hardware team, and the client.
@@ -25,9 +27,8 @@ The solution was a multi-stage filtering and logic algorithm implemented in C on
 
 * __Movement Thresholding for Gestures__: For gesture recognition, absolute precision was unnecessary. I implemented a threshold where a 'slide' event would only be generated if the confirmed touch point moved more than 100 pixels. This prevented minor jitters from being misinterpreted as gestures and ensured only intentional actions were registered.
 
-## Technology Stack
-* Primary Language: C
-* Hardware/Protocols: ARM Cortex-M Microcontrollers, I2C Communication Protocols, Y-OCTA Touch Technology
+![Image](https://github.com/user-attachments/assets/231178a2-60c1-493f-99a5-e970ef01638a)
+Sony Xperia 1 II - One of 3 projects we gained after customer satisfaction.
 
 ## The Results: Exceeding Expectations and Driving Business Growth
 The "Side Sense" feature was delivered on time and was a definitive success. Sony's QA team, despite being aware of the hardware challenges, rated the feature's final usability as even better than previous models that used competing pressure-sensitive solutions.

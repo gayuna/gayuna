@@ -1,14 +1,18 @@
 # Transforming Teacher Workflow and Student Feedback with Applied AI
 
 ## The Business Context & The Strategic Challenge
-Jangmoon is a fast-growing ed-tech startup in South Korea with over 8,000 students, focused on preparing high schoolers for the competitive national college entrance exam. As a backend engineer, I proactively analyzed our existing workflows to identify areas for improvement.
+__Jangmoon__ is a fast-growing ed-tech startup in South Korea with over 8,000 students, focused on preparing high schoolers for the competitive national college entrance exam. As a backend engineer, I proactively analyzed our existing workflows to identify areas for improvement.
 
-A significant bottleneck was our homework review process. Students submitted video explanations of their solutions to complex problems (e.g., "applications of trigonometric functions"), and assistant teachers had to manually watch and evaluate each video. This process was not only time-consuming and difficult to scale but also lacked consistent, detailed feedback for every student. I saw a clear opportunity to leverage AI to automate this process, enhancing both teacher efficiency and the student learning experience.
+(사진)
+
+A significant bottleneck was our homework review process. Students submitted video explanations of their solutions to complex problems (e.g., "applications of trigonometric functions"), and assistant teachers had to manually watch and evaluate each video. This process was not only time-consuming and difficult to scale but also lacked consistent, detailed feedback for every student.
+
+I saw a clear opportunity to leverage AI to automate this process, enhancing both teacher efficiency and the student learning experience.
 
 ## My Role: From Engineer to End-to-End Project Owner
 This project was entirely self-initiated. I identified the problem, defined the project scope, and took complete ownership from conception to deployment. Acting as the sole engineer and de facto project manager, I was responsible for everything: initial proof-of-concept (PoC), technology selection, system architecture, development, and collaborating directly with teachers to define the AI's evaluation standards.
 
-## The Action: A Pragmatic Approach to Building a Production-Ready AI
+## An Approach to Building a Production-Ready AI
 Building a reliable AI evaluation system required a series of pragmatic decisions and iterative development:
 
 * __Cost-Effective Transcription__: I initially explored OpenAI's Whisper for video transcription due to its powerful prompting features. However, I determined it was too costly for production scale. I pivoted to a more economical solution: extracting YouTube's auto-generated captions via their API and then using the more affordable gpt-4o-mini model to refine and correct the text.
@@ -24,12 +28,8 @@ The final system was a two-stage AI pipeline designed for accuracy and depth of 
 
 * Stage 2: Personalized Feedback Generation: Based on the outcome of the initial true/false assessment, the system would then generate detailed, constructive feedback. It highlighted areas of misunderstanding and suggested specific improvements to the student's explanation and problem-solving approach.
 
-As a solo developer and not a formal AI expert, I navigated the project's challenges by continuously researching best practices from tech blogs and applying them through rapid trial-and-error cycles.
-
-## Technology Stack
-* Languages: Python
-* AI/ML: OpenAI API, Gemini API
-* Databases & Tools: MongoDB, Github Actions
+![Image](https://github.com/user-attachments/assets/02f38cf0-8466-4926-8ffc-dcbe5d71babe)
+View of homework submit page with generated feedback
 
 ## The Results: Enhancing Education and Unlocking New Opportunities
 The AI evaluation system delivered significant value across the board:

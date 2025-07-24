@@ -1,8 +1,10 @@
-# Unlocking a New Market: How Backend Integration Fueled Coupang's Success in Taiwan
+# $100K to $8M: How Backend Integration Fueled Coupang's Success in Taiwan
 
 ## The Business Context & The Strategic Challenge
-Coupang, often dubbed the "Amazon of South Korea," is a dominant e-commerce leader known for its hyper-efficient logistics and signature "Rocket Delivery" service. While I was there, the company began leveraging its domestic success to launch a strategic international expansion, with Taiwan identified as a key growth market.
+__Coupang__, often dubbed the "__Amazon of South Korea__," is a dominant e-commerce leader known for its hyper-efficient logistics and signature "Rocket Delivery" service. While I was there, the company began leveraging its domestic success to launch a strategic international expansion, with Taiwan identified as a key growth market.
+
 ![image](https://github.com/user-attachments/assets/61bf71b8-88d2-4edf-a383-e755c45a5f4e)
+
 As part of this expansion, our team was tasked with building the foundational logistics infrastructure in Taiwan. The goal was to integrate our modern, automated systems with local partners, including convenience store (CVS) chains like Family Mart and Seven Eleven, for last-mile delivery.
 
 Our initial approach utilized a third-party broker for this integration, but they proved to be unreliable, causing frequent service disruptions and a poor customer experience. To solve this and gain control over our logistics network, a strategic decision was made to build direct integrations with the CVS partners, cutting out the intermediary. The primary challenge was that these major partners operated on legacy technology stacks and relied on manual FTP file transfers—a stark contrast to Coupang's fully automated, API-driven architecture.
@@ -28,12 +30,6 @@ The core of the solution was a scheduled, stateful service that managed the enti
 
 This entire integration was managed amidst complex communications involving two project managers, two engineers, and language interpreters in our meetings.
 
-## Technology Stack
-* Primary Languages: Java, Kotlin
-* Frameworks: Spring Boot
-* Protocols & Data Formats: FTP/SFTP, HTTP, CSV, JSON
-* Tools & Platforms: Jenkins (for CI/CD and job scheduling), Git, JIRA, Docker, Kubernetes
-
 ![image](https://github.com/user-attachments/assets/ee4c58df-cae3-4a2c-bf7f-3ced8158a5d7)
 
 ## The Results: A Foundation for Explosive Growth
@@ -41,7 +37,7 @@ The direct integration was a resounding success and a critical enabler for Coupa
 
 By removing the unreliable broker, we established a direct line of communication with CVS operators, allowing for rapid issue resolution (e.g., handling sudden store closures). This dramatically improved service reliability. Furthermore, the project resulted in immediate cost savings on shipping fees.
 
-Most importantly, this robust and scalable integration provided the technical foundation that allowed our Taiwan operations to grow from approximately $100K to $8M in revenue in just over a year and a half.
+Most importantly, this robust and scalable integration provided the technical foundation that allowed our Taiwan operations to grow from approximately __$100K to $8M__ in revenue in just over a year and a half.
 
 ## Key Takeaways
 This project was a pivotal experience in my growth as a backend engineer. It taught me that "standard" technology practices are not universal and underscored the importance of adaptability. When faced with legacy systems, the solution is not to demand they modernize, but to build an intelligent bridge. If I were to tackle a similar project, I would begin with the same assumption-free, manual-first testing approach to validate a partner's true technical capabilities before writing a single line of production code.

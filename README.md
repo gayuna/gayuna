@@ -16,7 +16,7 @@
 ## 💡 What I Bring to the Table - Career Highlights
 * [Transforming Teacher Workflow and Student Feedback with Applied AI](projects/04-jangmoon-feedback.md)
 * [From 8.4% Failure to 95% Growth: Solving a Critical Business Flaw](projects/03-coupang-lg.md)
-* [Unlocking a New Market: How Backend Integration Fueled Coupang's Success in Taiwan](projects/02-coupang-tw.md)
+* [$100K to $8M: How Backend Integration Fueled Coupang's Success in Taiwan](projects/02-coupang-tw.md)
 * [From 'Impossible' to Marketed Feature: The Sony Xperia 1 Project with 'Side Sense' feature](projects/01-samsung-sony-xperia1-sidesense.md)
 
 ## 💡 What I Bring to the Table - Independent Projects / Communities
